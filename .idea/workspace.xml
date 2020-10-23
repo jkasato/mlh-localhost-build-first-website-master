@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f878926d-af95-4d0c-accc-c050d7eb3d7e" name="Default Changelist" comment="test1">
-      <change afterPath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/public/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603401615251</updated>
       <workItem from="1603401616504" duration="6402000" />
-      <workItem from="1603421906689" duration="3178000" />
+      <workItem from="1603421906689" duration="8793000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1603408100570</created>
@@ -72,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603408100570</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test1">
+      <created>1603425446116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603425446116</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +110,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="35" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1603402977071" />
+    <state x="133" y="27" key="Vcs.Push.Dialog.v2" timestamp="1603425449207">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="133" y="27" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1603425449207" />
     <state x="402" y="252" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603408201322">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

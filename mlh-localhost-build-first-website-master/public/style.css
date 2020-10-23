@@ -8,23 +8,29 @@ body {
 header {
     display: flex;
     height: 20vh;
-    padding: 2vh;
+    padding: 0 2vh;
 }
 
-.logo {
-    text-align: center;
-    width: 48vw;
+header h1 {
+    color: DodgerBlue;
+    /*padding: 5vh;*/
+    font-size: 7vh;
 }
+
+/*.logo {*/
+/*    text-align: left;*/
+/*    width: 48vw;*/
+/*}*/
 
 nav {
     width: 60vw;
     padding: 0 2vh;
 }
 
-#logo {
-    padding: 2vh;
-    width: 50%;
-}
+/*#logo {*/
+/*    padding: 2vh;*/
+/*    width: 50%;*/
+/*}*/
 
 ul {
     height: 100%;
@@ -36,7 +42,7 @@ ul {
 li {
     display: inline-block;
     width: 100px;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
 }
 
@@ -50,37 +56,45 @@ a:visited {
     color: DodgerBlue;
 }
 
+
 h1 {
-    color: #ecc700;
-    padding: 1vh;
-    font-size: 4vh;
+    color: DodgerBlue;
+    /*padding: 1vh;*/
+    /*font-size: 5vh;*/
 }
 
 h2 {
-    color: black;
-    font-size: 30px;
-    padding: 5px;
+    color: DimGray;
+    font-size: 32px;
+    /*font-size: 30px;*/
+    /*padding: 5px;*/
 }
 
-main {
+main{
     display: flex;
     justify-content: space-around;
-    height: 70vh;
-    width: 100vw;
+    /*height: 70vh;*/
+    /*width: 100vw;*/
     margin: auto;
     background-color: white;
     text-align: center;
 }
 
-main .headline {
-    height: 30vh;
-    padding: 5px;
+.main{
+    display:flex;
+    justify-content: space-around;
+    background-color: red;
 }
 
-.headline h1,
-.headline h2 {
-    padding: 15px;
-}
+/*main .headline {*/
+/*    !*height: 30vh;*!*/
+/*    padding: 5px;*/
+/*}*/
+
+/*.headline h1,*/
+/*.headline h2 {*/
+/*    padding: 15px;*/
+/*}*/
 
 main .row {
     display: flex;
@@ -108,44 +122,36 @@ main p {
 /*    color:black;*/
 /*}*/
 
-#about .left{
-    width:46vw;
-    background:red;
-}
-#projects .right{
-    width:46vw;
-    background:blue;
-}
-
-
 img{
   height:40vh;
   width:auto;
   margin:3vh 0;
 }
-#about {
-    height: 75vh;
-    width: 95vw;
-    padding: 5px;
-    margin: 0 auto;
-}
+
+/*#about {*/
+/*    height: 75vh;*/
+/*    padding: 5px;*/
+/*    margin: 0 auto;*/
+/*}*/
 
 #about .row {
     display: flex;
     justify-content: space-around;
 }
 
-#projects {
-    background-color: white;
-    height: 75vh;
-    padding: 5px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
+#about .left{
+    width: 80vh;
 }
 
-#projects h3 {
-    font-size: 32px;
+#projects, #about {
+    background-color: white;
+    /*display: flex;*/
+    flex-direction: column;
+    /*justify-content: space-around;*/
+    justify-content: center;
+    height: 75vh;
+    padding: 5px;
+    margin: 0 auto;
 }
 
 #projects .row {
@@ -154,7 +160,7 @@ img{
 }
 
 #projects .col {
-    width: 30vw;
+    width: 50vw;
 }
 
 #projects img {
@@ -168,7 +174,11 @@ img{
     padding: 20px;
     color: black;
     display: block;
-    text-decoration: underline;
+    /*text-decoration: underline;*/
+}
+
+#projects .right{
+    width:110vh;
 }
 
 footer {

@@ -16,15 +16,16 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:temp" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f878926d-af95-4d0c-accc-c050d7eb3d7e" name="Default Changelist" comment="test1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mlh-localhost-build-first-website-master/public/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="e6719295-958a-441a-9e1e-65ea6f79a7fb" name="Default Changelist" comment="html save" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +97,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />
